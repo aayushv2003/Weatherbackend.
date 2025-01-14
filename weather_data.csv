@@ -1,0 +1,5 @@
+id,location,start_date,end_date,temperature,humidity,wind_speed,description
+4,New York,2025-01-01,2025-01-02,5.3,80.0,7.2,Snowy
+5,New York,2025-01-01,2025-01-02,5.3,80.0,7.2,Snowy
+6,Los Angeles,2025-01-01,2025-01-02,15.2,60.0,5.5,Sunny
+7,Chicago,2025-01-01,2025-01-02,-2.1,85.0,10.3,Cloudy
